@@ -1,0 +1,10 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1791800559
+icon.svg::CompressedTexture2D::6156902374051042695::1791791227::1791800559::1::::<><><>0<>0<>fc37f317f3dab7246178d33a54e2b37c<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1791800374::0::1::::<><><>0<>0<><>::
+::res://godot-pico-8-samples/::1791796491
+::res://scenes/::1791795828
+pico8_samples.tscn::PackedScene::583561092948014838::1791795828::0::1::::<><><>0<>0<><>::uid://ff101uihvgcm::::res://scripts/texture01.gd
+::res://scripts/::1791795818
+radial_flippy_maze.gd::GDScript::2486170482303176526::1791792717::0::1::::<>Node2D<><>0<>0<><>::
+texture01.gd::GDScript::362890790496873472::1791795818::0::1::::<>Node2D<><>0<>0<><>::

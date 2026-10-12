@@ -2,10 +2,14 @@
 
 ## Keyboard
 
-- Esc: exit to code
-- save filename.p8
+- Esc: _exit to code_
+- ```save filename.p8```
 
 ## URLS
+
+[zep.p8 account](https://mastodon.social/@zep)
+
+[#pico8](https://mastodon.social/tags/pico8)
 
 [Sample pico8 Cartridge](https://pico-8-edu.com/?c=AHB4YQM-AgPrweIJZ5xwSXHJghNOfonwEY6_-gWiI_q2qKPDw_vvj6vTq0d4hf6WieD_9LSb_uoR2mzjLYZuKu9KksOSy4q4iIaSue41mkoh4Ake4h2Whsb2IuGAibm3aJO9san1pbSeagaTtWKg6HdcPfgK1UhThWm7ONIO3Laxcly3EztpZifd2ajSJpgJo6qcWdwKBcSiaG0sGlsZGpoIxQe2PCBPUHVjlpmxPD3VVO3gTOE3DcIqKqJqKL_us3QZl8WSpboFU-dD_VIoYND3g4NZbIIx62MsXDLLgJRAph0Q5FGRGKpuJuN8t9vbqQVGPDdapuctbfnCLXOWiasg1TXqJ0RFdE4WgnxI2sRsXvONljqKps-3wodYShO9gaItNjf2xqoVsZHCCdKGI0lY7lR2HfRDkz1Bsbe4aOlOIcQYhs6mHFGFosF9Ew_WZTfR1m1yXjGxVG9sJKllmkZkTVVgRDVAdqWQdVwcWEkypYQkTtMpV6yOijEIhaRbO07baXbfYWzXGoN7cZRNySas7LTiR4NdZ3tO2EH6pTaJUYZuDLKFoG6CKFnK83J0Ow37JO8Ww0wJqsp3RpLRKJBUy_Sg1Ob6Pk0Gq8kmW1y0bB_VEjOFIvVmEobNXJb5daK7sapGFvpGIkRzrW0Hx5pm0wO6i8JsyUoeTrRbU8WOOgk=&g=w-w-w-w1HQHw-w2Xw-w3Xw-w2HQH)
 
